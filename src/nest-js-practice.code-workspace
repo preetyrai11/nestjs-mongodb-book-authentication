@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../nest-js-practice"
+		},
+		{
+			"path": "../../../library-nest-api-004-authentication-authorization"
+		},
+		{
+			"path": "../../../library-nest-api-004-authentication-authorization-1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
